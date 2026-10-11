@@ -53,4 +53,4 @@ Arduino Uno + breadboard + cables. Pulsadores con `INPUT_PULLUP` (un lado a GND,
 Mezcla simultánea de dos pistas, crossfader, efectos (eco, reverb), sincronización BPM, LEDs RGB y carcasa física.
 
 ## Documentación
-Presentación del proyecto: [docs/presentacion.pdf](docs/presentacion.pdf)
+Presentación del proyecto: [docs/presentacion.pdf](docs/Final_Project_Advanced-Mini-DJ-Controller-2.pdf)
